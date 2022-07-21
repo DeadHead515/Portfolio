@@ -29,7 +29,6 @@ function App() {
             <Skills />
             <Interests/>
         </div>
-        {/* TODO add in projects.  */}
         <Footer/>
     </div>
   );
