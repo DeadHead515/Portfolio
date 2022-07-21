@@ -8,7 +8,7 @@ import { AboutMe } from './components/aboutMe';
 import { Footer } from './components/footer';
 // import { ProjectDemo } from "./projectDemo";
 import { Interests } from './components/Interests';
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const bgStyle = {
     backgroundImage: `url(${vader})`,
